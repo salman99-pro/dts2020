@@ -124,8 +124,7 @@ header {
   display: none;
 }
 
-
--wrapper {
+.lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
