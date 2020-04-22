@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: "Lucida Grande";
+  font-family: calibri;
 }
 
 a {
@@ -96,6 +96,7 @@ header {
 
 .header-left {
   float: left;
+  color : white;
 }
 
 .header-right {
