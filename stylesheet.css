@@ -159,6 +159,9 @@ header {
   color: yellow;
   font-weight: bold;
 }
+mark { 
+  background-color: black;
+  color: white;
 
 .text-contents {
   width: 80%;
