@@ -195,6 +195,8 @@ mark {
 
 footer img {
   width: 125px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 footer p {
@@ -206,9 +208,4 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
-}
-.letak {
-	display: block;
-	  margin-left: auto;
-	  margin-right: auto;
 }
