@@ -156,8 +156,8 @@ header {
   position: absolute;
   top: 85%;
   width: 100%;
-  color: white;
-  font-weight: normal;
+  color: yellow;
+  font-weight: bold;
 }
 
 .text-contents {
