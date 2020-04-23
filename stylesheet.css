@@ -154,9 +154,8 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 85%;
+  top: 75%;
   width: 100%;
-  color: yellow;
   font-weight: bold;
 }
 mark { 
