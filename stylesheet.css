@@ -221,3 +221,20 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
+.youtube {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%;
+}
+.responsive-iframe {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 60%;
+  height: 60%;
+  border: none;
+}
