@@ -12,6 +12,10 @@
   .heading h2 {
     font-size: 20px;
   }
+  .responsive-iframe {
+   width: 90%;
+  height: 90%;
+} 
 }
 
 /* Untuk Smartphone */
@@ -55,4 +59,8 @@
     font-size: 14px;
     line-height: 20px;
   }
+    .responsive-iframe {
+   width: 90%;
+  height: 90%;
+} 
 }
